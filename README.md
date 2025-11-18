@@ -1,4 +1,5 @@
-# Garden Against Undead
+# Deck-builder Roguelike game
+
 Group project for AP Computer Science A under Mr. Coglianese.
 Group members: 
 - Jeffrey Wang (@DefineOriginality)
